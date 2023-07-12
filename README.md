@@ -31,3 +31,5 @@ Task 1.2: Exploratory data analysis:
    - Dimensionality Reduction:
      - Perform Principal Component Analysis (PCA) to reduce the dimensions of the data.
      - Interpret the results by identifying the most influential components and understanding their contribution to the overall variance.
+- Adding the data set in the sql
+- ![Screenshot 2023-07-13 004339](https://github.com/ikapil06/next-hikes/assets/115982272/924bd33b-efef-48db-9245-984303b4e875)
